@@ -1,0 +1,11 @@
+<?php
+//DEFINIÇÂO da função:
+function nomeDAfuncao($parametro1, $parametro2) {
+// Código que sera executado
+    $resultado = $parametro1 + $parametro2;
+    return $resultado; //retorna um valor
+}
+//CHAMANDO a função:
+$soma = nomeDAfuncao(5, 10);
+echo "O resultado é: $soma";
+?>
