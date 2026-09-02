@@ -27,4 +27,4 @@
 } else {
     echo "Nenhuma nota foi digitada";
 }
-
+?>
