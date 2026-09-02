@@ -10,7 +10,6 @@ if (isset($_POST['num1'])) {
     $num1 = $_POST['num1'];
     $num2 = $_POST['num2'];
 
-    
     $resultado = calcsoma($num1, $num2);
 }
 ?>
